@@ -12,7 +12,7 @@
 "udentify_ocr_status_view_title_wait" = "Lütfen bekleyin...";
 
 /* OCR Button Titles */
-"udentify_ocr_button_retake_title" = "Yeniden Çek";
+"udentify_ocr_button_retake_title" = "Yeniden Çek!";
 "udentify_ocr_button_use_title" = "Kullan";
 "udentify_ocr_button_capture_title" = "Çek";
 
