@@ -15,6 +15,6 @@
 
 // NFC Reading Messages
 "nfc_reading_authentication_message" = "Çip ile kimlik doğrulanıyor...";
-"nfc_reading_directive" = "iPhone'unuzu NFC özellikli pasaportunun yakınında tutun.";
-"nfc_reading_message" = "Pasaport verileri okunuyor...";
-"nfc_reading_progress_message" = "Pasaport verileri okunuyor";
+"nfc_reading_directive" = "iPhone'unuzu NFC özellikli kimliğin yakınında tutun.";
+"nfc_reading_message" = "Kimlik verileri okunuyor...";
+"nfc_reading_progress_message" = "Kimlik verileri okunuyor";
