@@ -12,8 +12,8 @@
 "udentify_ocr_status_view_title_wait" = "Lütfen bekleyin...";
 
 /* OCR Button Titles */
-"udentify_ocr_button_retake_title" = "Yeniden Çek";
-"udentify_ocr_button_use_title" = "Kullan";
+"udentify_ocr_button_retake_title" = "Tekrar Et";
+"udentify_ocr_button_use_title" = "Devam Et";
 "udentify_ocr_button_capture_title" = "Çek";
 
 /* OCR Instruction Texts */
@@ -23,8 +23,10 @@
 /* OCR Review Texts */
 "udentify_ocr_review_title_front_side" = "Ön Yüz Yakalandı";
 "udentify_ocr_review_title_back_side" = "Arka Yüz Yakalandı";
-"udentify_ocr_review_instruction_text_front_side" = "Fotoğrafın bulanık olmadığından emin olun.";
-"udentify_ocr_review_instruction_text_back_side" = "Fotoğrafın bulanık olmadığından emin olun.";
+"udentify_ocr_review_instruction_text_front_side" = "Kimlik ön yüzünde yer alan bilgilerinizin okunabilir
+ve kimlik görselinin net olduğundan emin olunuz.";
+"udentify_ocr_review_instruction_text_back_side" = "Kimlik arka yüzünde yer alan bilgilerinizin okunabilir
+ve kimlik görselinin net olduğundan emin olunuz.";
 
 /* OCR Document Types */
 "udentify_ocr_document_type_id_card" = "Kimlik";
@@ -76,7 +78,7 @@
 "ERR_OCR_MISSING_PARAMETERS" = "Gerekli OCR parametreleri eksik.";
 
 /* IQA Service */
-"udentify_iqa_screen_title" = "Görüntü kalitesi kontrol ediliyor";
+"udentify_iqa_screen_title" = "Kimlik bilgileriniz kontrol ediliyor";
 "udentify_iqa_button_next_title" = "İleri";
 "udentify_iqa_button_retake_title" = "Yeniden Çek";
 "udentify_iqa_progress_title" = "Lütfen bekleyin...";
@@ -86,10 +88,11 @@
 "udentify_iqa_front_capture_invalid_message" = "Ön yüz geçersiz. Lütfen yeniden çekin.";
 "udentify_iqa_back_capture_quality_failed_title" = "Arka yüz kalite kontrolü başarısız";
 "udentify_iqa_back_capture_invalid_message" = "Arka yüz geçersiz. Lütfen yeniden çekin.";
-"udentify_iqa_front_capture_quality_success_title" = "Ön yüz geçti";
-"udentify_iqa_front_capture_success_message" = "Devam etmek için İleri'ye dokunun.";
-"udentify_iqa_back_capture_quality_success_title" = "Arka yüz geçti";
-"udentify_iqa_back_capture_success_message" = "Devam etmek için İleri'ye dokunun.";
+"udentify_iqa_front_capture_quality_success_title" = "Ön Yüz Yakalandı";
+"udentify_iqa_front_capture_success_message" = "Kimliğinizin ön yüzü başarılı doğrulandı, kimlik
+arka yüzünü doğrulamak için devam ediniz";
+"udentify_iqa_back_capture_quality_success_title" = "Arka Yüz Yakalandı";
+"udentify_iqa_back_capture_success_message" = "Kimliğinizin arka yüzü başarılı doğrulandı";
 "udentify_iqa_reason_title" = "Sebep";
 
 /* IQA Server Side Error Responses */
