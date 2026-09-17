@@ -25,7 +25,7 @@
 "udentify_ocr_review_title_back_side" = "Arka Yüz Yakalandı";
 "udentify_ocr_review_instruction_text_front_side" = "Kimlik ön yüzünde yer alan bilgilerinizin okunabilir
 ve kimlik görselinin net olduğundan emin olunuz.";
-"udentify_ocr_review_instruction_text_back_side" = "Kimlik ön yüzünde yer alan bilgilerinizin okunabilir
+"udentify_ocr_review_instruction_text_back_side" = "Kimlik arka yüzünde yer alan bilgilerinizin okunabilir
 ve kimlik görselinin net olduğundan emin olunuz.";
 
 /* OCR Document Types */
